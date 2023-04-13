@@ -1,0 +1,9 @@
+{
+  "defaultViewMode": "preview",
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "shortest"
+}

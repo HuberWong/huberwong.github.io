@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "f33f28b02fbd8c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "05a4ea77132175fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a7ad2cf6d45e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/second-bundle/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91168f61d34aabba",
+    "type": "split",
+    "children": [
+      {
+        "id": "96937b051234d11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40a6970afb746c2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1130dc7f0aaa062e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66a6ec76fe46067f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c00fb46986e00fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1141dd5e696f5be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f1dfce5d0f6cfdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/second-bundle/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae6f07e7b2695e1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/post/second-bundle/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d19ca6cb8487e08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3509ba839fd18c2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/post/second-bundle/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "60a7ad2cf6d45e57",
+  "lastOpenFiles": [
+    "content/post/second-bundle/Pasted image 20230413114024.png",
+    "content/post/second-bundle/1681357083044.png",
+    "image/index/1681357083044.png.md",
+    "content/post/second-bundle/index.md",
+    "image/index",
+    "image",
+    "content/post/second-bundle/image/index/1681357083044.png",
+    "content/post/second-bundle/image/index",
+    "content/post/second-bundle/image",
+    "content/post/my-first-post.md",
+    "content/post/second-bundle",
+    "content/post/my-first-bundle/index.md",
+    "content/post/my-first-bundle/Pasted image 20230413110303.png",
+    "content/post/my-first-bundle",
+    "assets/images",
+    "assets/Pasted image 20230413110123.png",
+    "assets/Pasted image 20230413105554.png",
+    "assets/Pasted image 20230413105446.png",
+    "常用名命令.md"
+  ]
+}
